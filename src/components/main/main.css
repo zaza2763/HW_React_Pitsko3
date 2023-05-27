@@ -1,0 +1,53 @@
+img{
+  width: 100%;
+}
+.Top-m{
+  margin-top: 250px;
+}
+.Main-img-top{
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.Main-wrap-content{
+  margin: 30px 70px;
+}
+.Main-subtitle{
+  margin-top: 30px;
+  color: #b4ad9e;
+  font-family: Ubuntu;
+  font-size: 14px;
+  font-weight: 300;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+  text-align: left;
+  text-transform: uppercase;
+}
+.Main-title{
+  margin-top: 30px;
+  color: #626262;
+  font-family: "Playfair Display";
+  font-size: 30px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+  text-align: left;
+}
+.Main-text{
+  margin: 40px 0;
+  color: #626262;
+  font-family: "Playfair Display";
+  font-size: 14px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 24px;
+  text-align: left;
+}
+.Main-gallery{
+  margin-top: 130px;
+  display: grid;
+  grid-template-columns: repeat(2,2fr);
+  gap: 60px;
+}

@@ -1,0 +1,42 @@
+
+.Header-wrap{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.Header-logo{
+  width: 50%;
+  text-align: left;
+  color: #000000;
+  font-family: Inconsolata;
+  font-size: 30px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: normal;
+  text-transform: uppercase;
+  cursor: pointer;
+  letter-spacing: 6px;
+}
+.Header-menu-wrap{
+  width: 50%;
+}
+.Header-menu{
+  width: 100%;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #626262;
+  font-family: "Playfair Display";
+  font-size: 14px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 24px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.Header-menu-elem:hover{
+  cursor: pointer;
+  color: #aa2020;
+}

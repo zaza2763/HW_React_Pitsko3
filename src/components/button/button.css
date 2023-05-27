@@ -1,0 +1,21 @@
+.Btn-main{
+  display: block;
+  color: #626262;
+  background-color: inherit;
+  font-family: "Playfair Display";
+  font-size: 20px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 24px;
+  text-align: left;
+  border: 1px solid #000;
+  padding: 20px 35px;
+  margin: auto;
+  margin-top: 150px; 
+  margin-bottom: 150px;
+}
+.Btn-main:hover{
+  color: #aa2020;
+  cursor: pointer;
+}
